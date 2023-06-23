@@ -11,7 +11,7 @@
 
 ## Tema:
 
-Automated lung segmentation in CT under presence of severe pathologies
+Automated lung segmentation in CT under presence of severe pathologies.
 
 ## Integrantes:
 
